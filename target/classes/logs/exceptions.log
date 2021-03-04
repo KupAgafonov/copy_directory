@@ -1,0 +1,16 @@
+2020-11-11 14:13:05.240 [main] ERROR Main - java.nio.file.FileAlreadyExistsException: C:\Users\kupag\Desktop\Test\Бланк АНКЕТА ЛАБОРАТОРИИ.pdf
+2020-11-11 14:15:56.304 [main] ERROR Main - java.nio.file.NoSuchFileException: C:\Users\kupag\Desktop\Test\ТестКорона
+2020-11-11 14:19:26.348 [main] ERROR Main - java.nio.file.InvalidPathException: Illegal char <"> at index 25: LOGGER.info(DONE_MARKER, " new paths directory " + to);
+2020-11-11 14:20:14.141 [main] ERROR Main - java.nio.file.NoSuchFileException: 09_FilesAndNetwork\FoulderCopy\src\main\resources\data\file.txt -> 09_FilesAndNetwork\FoulderCopy\data\file.txt
+2020-11-11 14:26:27.995 [main] ERROR Main - java.nio.file.NoSuchFileException: C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\FoulderCopy\src\main\resources\data\file.txt -> C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\FoulderCopy\src\main\data\file.txt
+2020-11-11 14:28:29.714 [main] ERROR Main - java.nio.file.NoSuchFileException: C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\FoulderCopy\src\main\resources\data\file.txt -> C:\MyDocum\MyProjects\java_basics\09_FilesAndNetwork\FoulderCopy\src\data\file.txt
+2020-11-11 14:30:22.205 [main] ERROR Main - java.nio.file.FileAlreadyExistsException: C:\Users\kupag\Desktop\партфолио\20200129_224439.jpg
+2020-11-11 14:30:27.539 [main] ERROR Main - java.nio.file.FileAlreadyExistsException: C:\Users\kupag\Desktop\Бланк АНКЕТА ЛАБОРАТОРИИ.pdf
+2020-11-11 14:32:35.204 [main] ERROR Main - java.nio.file.FileAlreadyExistsException: C:\Users\kupag\Desktop\Test\Бланк АНКЕТА ЛАБОРАТОРИИ.pdf
+2020-11-11 14:32:58.783 [main] ERROR Main - java.nio.file.FileAlreadyExistsException: C:\Users\kupag\Desktop\ТестКорона\Бланк АНКЕТА ЛАБОРАТОРИИ.pdf
+2020-11-11 14:35:30.683 [main] ERROR Main - java.nio.file.NoSuchFileException: C:\Users\kupag\Desktop\Test\test
+2020-11-11 14:35:39.303 [main] ERROR Main - java.nio.file.NoSuchFileException: C:\Users\kupag\Desktop\Test\Бланк АНКЕТА ЛАБОРАТОРИИ.pdf -> C:\Users\kupag\Desktop\Test\test\Бланк АНКЕТА ЛАБОРАТОРИИ.pdf
+2020-11-11 14:36:13.264 [main] ERROR Main - java.nio.file.FileAlreadyExistsException: C:\Users\kupag\Desktop\Test\Бланк АНКЕТА ЛАБОРАТОРИИ.pdf
+2020-11-11 14:36:24.072 [main] ERROR Main - java.nio.file.FileAlreadyExistsException: .git\COMMIT_EDITMSG
+2020-11-11 14:38:15.535 [main] ERROR Main - java.nio.file.NoSuchFileException: 09_FilesAndNetwork\FoulderCopy\src\main\resources\data\file.txt -> 09_FilesAndNetwork\FoulderCopy\src\main\data\file.txt
+2020-11-11 14:40:04.153 [main] ERROR Main - java.nio.file.NoSuchFileException: 09_FilesAndNetwork\FoulderCopy\data\file.txt -> 09_FilesAndNetwork\FoulderCopy\data\main\data\file.txt
